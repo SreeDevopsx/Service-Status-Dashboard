@@ -1,0 +1,32 @@
+SERVICE STATUS REPORT
+Generated: Mon Jun  8 01:20:15 IST 2026
+
+active
+active
+active
+inactive
+
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       539Mi       2.8Gi       4.0Mi       427Mi       3.2Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         452G  317G  135G  71% /usr/lib/wsl/drivers
+/dev/sdd       1007G   13G  943G   2% /
+none            1.9G  100K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  956K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             452G  317G  135G  71% /mnt/c
+snapfuse         49M   49M     0 100% /snap/snapd/25935
+snapfuse         50M   50M     0 100% /snap/snapd/26865
+snapfuse         74M   74M     0 100% /snap/core22/2411
+snapfuse         74M   74M     0 100% /snap/core22/2292
+snapfuse        4.5M  4.5M     0 100% /snap/tree/54
+tmpfs           378M   48K  378M   1% /run/user/1000
